@@ -9,7 +9,8 @@ In a permutation flow shop, $n$ jobs must be processed on $m$ machines in the sa
 - **Constructive Heuristic:** Full implementation of the NEH algorithm in native Python.
 - **Dynamic Makespan Evaluation:** Computes start, finish, and machine idle times.
 - **Visual Schedule Generation:** Automatic export of high-resolution Gantt charts (`flow_shop_gantt.png`).
-
+## 📊 Schedule Output
+![Flow Shop Gantt Schedule](flow_shop_gantt.png)
 ## 🛠️ Tech Stack
 - Python 3.9+
 - `matplotlib`, `pandas`, `numpy`
